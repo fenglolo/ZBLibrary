@@ -1,0 +1,4 @@
+#Wed Jun 06 17:20:23 CST 2018
+base.0=E\:\\MyDemo\\kuangjiaOne\\Android-ZBLibrary-master\\ZBLibrary\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

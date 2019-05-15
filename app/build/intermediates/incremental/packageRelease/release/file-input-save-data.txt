@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jun 06 17:20:24 CST 2018
+1.base=E\:\\MyDemo\\kuangjiaOne\\Android-ZBLibrary-master\\ZBLibrary\\app\\build\\intermediates\\assets\\release
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=E\:\\MyDemo\\kuangjiaOne\\Android-ZBLibrary-master\\ZBLibrary\\app\\build\\intermediates\\transforms\\dex\\release\\0
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=city.db
+0.set=ASSET
+0.base=E\:\\MyDemo\\kuangjiaOne\\Android-ZBLibrary-master\\ZBLibrary\\app\\build\\intermediates\\assets\\release
+2.baseType=DIRECTORY
+1.path=demo.cer
